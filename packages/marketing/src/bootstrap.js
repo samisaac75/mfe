@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './App'
+import App from './src/App'
 
 // Mount funcion to start up the app
 const mount = (el) => {
